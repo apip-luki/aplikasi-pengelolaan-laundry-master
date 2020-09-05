@@ -1,5 +1,5 @@
 <?php
-$title = 'Dashboard';
+$title = 'Selamat Datang di Aplikasi Pengelolaan Laundry';
 require 'koneksi.php';
 require 'header.php';
 
