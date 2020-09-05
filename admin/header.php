@@ -120,7 +120,7 @@
                         </div>
                     </div>
                     <ul class="nav nav-primary">
-                        <li class="nav-item <?php if ($title == 'Dashboard') {
+                        <li class="nav-item <?php if ($title == 'Selamat Datang di Aplikasi Pengelolaan Laundry') {
                                                 echo 'active';
                                             } ?>">
                             <a href="index.php" class="collapsed" aria-expanded="false">
