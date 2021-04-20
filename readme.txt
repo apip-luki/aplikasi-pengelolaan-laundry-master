@@ -1,11 +1,3 @@
-######################################
-Aplikasi Pengelolaan Laundry
-######################################
-
-######################################
-Login Aplikasi
-######################################
-
 Halaman Admin
 >>>>>>>>>>>>>
 username = admin
@@ -24,13 +16,6 @@ Halaman Owner
 username = owner
 password = owner
 
-########################################
+#gimme more stars :)
 
-database = db_laundry
 
-########################################
-
-Nama : Alfip Lutfiana Luki
-Kelas : XII RPL 2
-
-########################################
